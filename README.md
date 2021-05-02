@@ -1,2 +1,2 @@
 # git
-Git tutorial for beginnnr
+Git tutorial for beginners
